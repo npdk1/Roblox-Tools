@@ -1,0 +1,7 @@
+Cách xài
+Tải python trên website về https://www.python.org/
+Tải cả nodejs https://nodejs.org/en
+Sau đó chạy setup.bat
+sau đó chạy getproxy.bat
+có file proxies.txt bên ngoài vô input proxies điền vô
+phần config của input điền key rosolve+thread(luồng reg roblox)
